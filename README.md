@@ -1,16 +1,80 @@
-### Hi there 👋
+# 👋 Hello, I’m Aldrich.
 
-<!--
-**cervania-aldrich/cervania-aldrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About 
 
-Here are some ideas to get you started:
+Hello, I’m an **`iOS Developer!`** Passionate about learning new things, building applications and connecting with people. Seeking for full-time job opportunities as an iOS Mobile Developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Achievements
+🎓 Graduated at the University of Sheffield with a 2:1 BEng degree in Mechatronics and Robotics.
+
+🇵🇭 Former President of Filipino Society at the University of Sheffield.
+
+✏️ Student Communication Ambassador for the University’s Disability and Dyslexia Support Service.
+
+📄 Wrote blog posts for the “We are Sheffield Students” blog.
+
+🎥 Started a YouTube Channel with the purpose to build a student community (3.5K subscribers).
+
+💻 6 months work experience as a Web Developer for a tech startup.
+
+📱 Learned iOS development by building over 15 apps in Swift.
+
+
+## Skills
+
+🐦 **Swift**, **UIKit**, SwiftUI, Core Data
+
+🛜 Networking and working with data (Fetching JSON from a server, and converting that into information to show in an app)
+
+🏰 Realm
+
+😺 Version Control **(Git/Github)**
+
+🌐 HTML, CSS, JavaScript
+
+🖥️ C
+
+👷‍♂️ Matlab
+
+Additionally, I am proficient in:
+
+🎥 Video Production
+
+🎞️ Video Editing (LumaFusion)
+
+📷 Photo Editing (Adobe Lightroom)
+
+🔎 YouTube SEO
+
+**Learning:** Autolayout, consuming JSON
+
+## Projects 
+
+I have several projects to showcase my current iOS development skills, including:
+* [Xylophone](https://www.google.co.uk/)
+* [Egg Timer](https://www.google.co.uk/)
+* [Quizzler](https://www.google.co.uk/)
+* [BMI Calculator](https://www.google.co.uk/)
+* [Clima](https://www.google.co.uk/)
+* [Flash Chat](https://www.google.co.uk/)
+* [Hacker News](https://www.google.co.uk/)
+* [Todoey](https://www.google.co.uk/)
+
+All the listed projects have their own repositories. Click on the links for more details!
+
+## Other interests
+🏋️‍♂ I am an avid and regular gym goer! I'm following a programme where I go to the gym 3 times per week to increase my strength and size. I have been consistent for more than a year! For those interested, I'm keen on progressing on 4 main exercises: 
+
+* Weighted Chin-ups
+* Incline Bench Press
+* Overhead Shoulder Press
+* Bulgarian Split Squats
+
+🍓 To complement my gym progress, I also enjoying learning about nutrition and applying that information into my own diet. 
+
+🏀 I'm also part of a local Basketball Community, where I play 5v5 full-court and half-court basketball games.
+
+🎸 Been playing the guitar since I was a kid and graduated with Yamaha Grade 5. These days I mostly play the acoustic guitar.
+
+📚 Occasionally read non-fiction books on my Kindle.
+
