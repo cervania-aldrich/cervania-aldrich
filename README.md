@@ -53,7 +53,7 @@ Additionally, I am proficient in:
 I have several projects to showcase my current iOS development skills, including:
 * [Xylophone](https://github.com/cervania-aldrich/Xylophone)
 * [Egg Timer](https://github.com/cervania-aldrich/Egg-Timer)
-* [Quizzler](https://www.google.co.uk/)
+* [Quizzler](https://github.com/cervania-aldrich/Quizzler)
 * [BMI Calculator](https://www.google.co.uk/)
 * [Clima](https://www.google.co.uk/)
 * [Flash Chat](https://www.google.co.uk/)
