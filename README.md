@@ -54,11 +54,11 @@ I have several projects to showcase my current iOS development skills, including
 * [Xylophone](https://github.com/cervania-aldrich/Xylophone)
 * [Egg Timer](https://github.com/cervania-aldrich/Egg-Timer)
 * [Quizzler](https://github.com/cervania-aldrich/Quizzler)
-* [BMI Calculator](https://www.google.co.uk/)
-* [Clima](https://www.google.co.uk/)
-* [Flash Chat](https://www.google.co.uk/)
-* [Hacker News](https://www.google.co.uk/)
-* [Todoey](https://www.google.co.uk/)
+* [BMI Calculator](https://github.com/cervania-aldrich/BMI-Calculator)
+* [Clima](https://github.com/cervania-aldrich/Clima)
+* Flash Chat (Link coming soon)
+* Hacker News (Link coming soon)
+* Todoey (Link coming soon)
 
 All the listed projects have their own repositories. Click on the links for more details!
 
