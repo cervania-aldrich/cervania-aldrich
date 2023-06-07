@@ -2,7 +2,7 @@
 
 ## About 
 
-Hello, I’m an **`iOS Developer!`** Passionate about learning new things, building applications and connecting with people. Seeking for full-time job opportunities as an iOS Mobile Developer. 
+Hello, I’m an **`iOS Developer!`** Passionate about learning new things, building applications and connecting with people. Seeking for full-time job opportunities as an iOS Mobile Developer / Junior Software Developer / Graduate Software Engineer. 
 
 ## Key Achievements
 🎓 Graduated at the University of Sheffield with a 2:1 BEng degree in Mechatronics and Robotics.
